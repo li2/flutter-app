@@ -13,7 +13,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: HelloFlutterScreen(greetings: "Hello Flutter, I'am Weiyi"),
+      //home: HelloFlutterScreen(greetings: "Hello Flutter, I'am Weiyi"),
+      home: RandomWordsScreen(),
     );
   }
 }
