@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/codelabs/WriteYourFirstFlutterApp/RandomWordsScreen.dart';
-import 'package:flutter_app/hello/HelloFlutterScreen.dart';
+import 'package:flutter_app/codelabs/write_your_first_flutter_app/random_words_screen.dart';
+import 'package:flutter_app/hello/hello_flutter_screen.dart';
 
 void main() => runApp(MyApp());
 
