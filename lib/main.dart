@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
+import 'package:flutter_app/codelabs/03_firebase_for_flutter/votes_screen.dart';
 import 'package:flutter_app/hello/hello_flutter_screen.dart';
 import 'package:flutter_app/codelabs/01_write_your_first_flutter_app/random_words_screen.dart';
 import 'package:flutter_app/codelabs/02_building_beautiful_uis/chat_screen.dart';
@@ -21,7 +22,8 @@ class MyApp extends StatelessWidget {
         : kDefaultTheme,
       //home: HelloFlutterScreen(greetings: "Hello Flutter, I'am Weiyi"),
       //home: RandomWordsScreen(),
-      home: ChatScreen(),
+      //home: ChatScreen(),
+      home: VotesScreen(),
     );
   }
 }
