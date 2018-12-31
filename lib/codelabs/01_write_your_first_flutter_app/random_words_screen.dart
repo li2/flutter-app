@@ -1,6 +1,6 @@
 import 'package:english_words/english_words.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_app/codelabs/write_your_first_flutter_app/saved_words_screen.dart';
+import 'package:flutter_app/codelabs/01_write_your_first_flutter_app/saved_words_screen.dart';
 import 'package:flutter_app/style.dart';
 
 /*

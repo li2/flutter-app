@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app/codelabs/building_beautiful_uis/chat_input_box.dart';
-import 'package:flutter_app/codelabs/building_beautiful_uis/chat_message_widget.dart';
+import 'package:flutter_app/codelabs/02_building_beautiful_uis/chat_input_box.dart';
+import 'package:flutter_app/codelabs/02_building_beautiful_uis/chat_message_widget.dart';
 import 'package:flutter_app/style.dart';
 
 class ChatScreen extends StatefulWidget {

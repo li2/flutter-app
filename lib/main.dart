@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
-import 'package:flutter_app/codelabs/building_beautiful_uis/chat_screen.dart';
-import 'package:flutter_app/codelabs/write_your_first_flutter_app/random_words_screen.dart';
 import 'package:flutter_app/hello/hello_flutter_screen.dart';
+import 'package:flutter_app/codelabs/01_write_your_first_flutter_app/random_words_screen.dart';
+import 'package:flutter_app/codelabs/02_building_beautiful_uis/chat_screen.dart';
 import 'package:flutter_app/style.dart';
 
 void main() => runApp(MyApp());
