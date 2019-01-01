@@ -12,10 +12,10 @@ final ThemeData kIOSTheme = new ThemeData(
 );
 
 final ThemeData kDefaultTheme = new ThemeData(
-  primarySwatch: Colors.purple,
-  accentColor: Colors.orangeAccent[400],
+  primarySwatch: Colors.blue,
+  accentColor: Colors.blue[400],
   iconTheme: IconThemeData(
-    color: Colors.purple,
+    color: Colors.blue,
   )
 );
 
